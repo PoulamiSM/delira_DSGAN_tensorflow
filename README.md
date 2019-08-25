@@ -3,4 +3,4 @@ A delira compatible skeleton for DSGAN used for paired multi-modal image-to-imag
 This repository is a tensorflow implementation of the paper [Diversity-Sensitive Conditional
 Generative Adversarial Networks](https://arxiv.org/abs/1901.09024).
 
-[Delira](https://github.com/delira-dev/delira) is a deep learning library which facilates data-loading, data sampling, augmentations, training routine, training monitoring and so on. `Note`: This code was developed on 'tf_features' branch of Delira.
+[Delira](https://github.com/delira-dev/delira) is a deep learning library which facilates data-loading, data sampling, augmentations, training routine, training monitoring and so on. `Note`: This code was developed on 'tf_features' branch of Delira (version 0.1.3).
